@@ -1,0 +1,10 @@
+change directory to folder
+git init
+git status
+git add .
+git status
+git commit -m "Message"
+git branch -M main
+git remote add origin path
+git push -u origin main
+
